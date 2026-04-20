@@ -1,16 +1,27 @@
-## Hi there 👋
+Hey, I'm Benjamin 👾
 
-<!--
-**l0rdb3n/l0rdb3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sophomore CS student @ University of Scranton
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 About Me
+I'm a computer science major on a mission to be curious. I'm early in my journey, but I bring a strong visual intuition, a fast learning curve, and a drive to build things that actually matter. I adapt quickly and ask good questions
+
+🔧 Currently
+
+📖 Studying — Assembly language & PEP9 architecture
+🛠️ Building — Academic projects and personal portfolio pieces
+🤝 Open to — Beginner-friendly collaborations to grow my GitHub presence
+🔍 Looking for — Unique project ideas that push me outside my comfort zone
+
+
+💡 What I Bring
+
+Visual thinker — I understand how things should look and flow before I build them
+Quick adapter — New tools, new stacks, new problems? Let's go
+Growth mindset — I'd rather ship something imperfect and learn than wait forever
+
+
+📬 Let's Connect
+
+Email: benjamin.maldonado@scranton.edu
+Open to: Internships, collabs, mentorship, or just a good tech conversation
