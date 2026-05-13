@@ -5,6 +5,7 @@ import java.util.Iterator;
    Search keys and associated values are not null.
    @author Frank M. Carrano
    @author Timothy M. Henry
+   modified by Benjamin Maldonado
    @version 5.0
 */
 public interface DictionaryInterface<K, V>
