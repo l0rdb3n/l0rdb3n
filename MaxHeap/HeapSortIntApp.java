@@ -7,7 +7,7 @@ import java.util.Arrays;
 ** The intent is to test the heapSort() method and the underlying
 ** infrastructure supporting it.
 **
-** Author: R. McCloskey
+** Author: R. McCloskey and Benjmain Maldonado
 ** Date: December 2025
 */
 public class HeapSortIntApp {
