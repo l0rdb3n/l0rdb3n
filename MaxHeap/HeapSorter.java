@@ -7,7 +7,7 @@ import java.util.Comparator;
 ** of any specified (reference) type; the other parameter is a Comparator
 ** that defines an ordering on that type.
 **
-** Author: R. McCloskey
+** Author: R. McCloskey and Benjamin Maldonado
 ** Date: December 2025
 */
 public class HeapSorter<T> {
