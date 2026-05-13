@@ -1,4 +1,4 @@
-Hey, I'm Benjamin 👾
+Hello, I'm Benjamin
 
 Sophomore CS student @ University of Scranton
 
@@ -8,10 +8,14 @@ I'm a computer science major on a mission to be curious. I'm early in my journey
 
 🔧 Currently
 
-📖 Studying — Assembly language & PEP9 architecture
-🛠️ Building — Academic projects and personal portfolio pieces
-🤝 Open to — Beginner-friendly collaborations to grow my GitHub presence
-🔍 Looking for — Unique project ideas that push me outside my comfort zone
+Studying — Assembly language & PEP9 architecture
+
+Building — Academic projects and personal portfolio pieces
+
+Open to — Beginner-friendly collaborations to grow my GitHub presence
+
+Looking for — Unique project ideas that push me outside my comfort zone
+
 
 
 💡 What I Bring
@@ -23,5 +27,6 @@ Growth mindset — I'd rather ship something imperfect and learn than wait forev
 
 📬 Let's Connect
 
-Email: benjamin.maldonado@scranton.edu
+Email: benjamin.maldonado@scranton.edu or benmaldo1@gmail.com
+
 Open to: Internships, collabs, mentorship, or just a good tech conversation
