@@ -12,7 +12,7 @@ import java.util.Arrays;
 ** with IDs 2k+1 and 2k+2.  The classic array-based representation is 
 ** employed, with node k's value being stored in location k of the array.
 **
-** Author: R. McCloskey
+** Author: R. McCloskey and Benjamin Maldonado
 ** Date last modified: Dec. 2025
 */
 
