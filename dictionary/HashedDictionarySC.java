@@ -9,6 +9,7 @@ import java.util.NoSuchElementException;
 
    @author Frank M. Carrano
    @author Charles Hoot
+   @author Benjamin Maldonado
    @version 5.0
  */
 public class HashedDictionarySC<K, V> implements DictionaryInterface<K, V>
