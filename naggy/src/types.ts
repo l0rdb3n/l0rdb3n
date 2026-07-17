@@ -1,4 +1,5 @@
 export type ItemKind = 'task' | 'appointment' | 'call' | 'bill' | 'followUp';
+export type Recurrence = 'weekly' | 'monthly';
 
 export type SecretaryItem = {
   id: string;
@@ -8,10 +9,12 @@ export type SecretaryItem = {
   contact?: string;
   amount?: number;
   phoneNumber?: string;
+  email?: string;
   notes?: string;
   completed: boolean;
   priority: 'low' | 'normal' | 'high';
   source: 'manual' | 'email' | 'notification';
+  recurrence?: Recurrence;
 };
 
 export type Contact = {
@@ -22,6 +25,8 @@ export type Contact = {
   website?: string;
   /** Kept ready for a future addresses/contact-locations feature. */
   address?: string;
+  other?: string;
+  extras?: Array<{ id: string; label: string; value: string }>;
 };
 
 /**
