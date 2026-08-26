@@ -15,6 +15,8 @@ export type SecretaryItem = {
   priority: 'low' | 'normal' | 'high';
   source: 'manual' | 'email' | 'notification';
   recurrence?: Recurrence;
+  /** Inclusive local calendar date after which the recurrence no longer occurs. */
+  recurrenceEndsOn?: string;
 };
 
 export type Contact = {
